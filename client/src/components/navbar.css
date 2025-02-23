@@ -1,0 +1,11 @@
+#nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    margin:7px;
+    background-color: aliceblue;
+}
+#nav span{
+    margin-right: 14px;
+    text-decoration:none;
+}
